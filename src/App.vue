@@ -16,12 +16,12 @@ export default {
 </script>
 
 <style lang="scss">
-$cyan: #00e5ff;
+$cyan: #50C7BF;
 #app {
-  width: 250px;
-  height: 250px;
+  width: 350px;
+  height: 300px;
   margin: auto;
-  border: 2px $cyan solid;
-  border-radius: 10px;
+  border: 1px $cyan solid;
+  border-radius: 5px;
 }
 </style>
